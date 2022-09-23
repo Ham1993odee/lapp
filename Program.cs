@@ -7,8 +7,11 @@ myWebsite.main2();
 
 class HtmlGenerator
 {
+    string start = "My website";
+    string end = "Welcome";
     public void hTml()
     {
+        Console.WriteLine(this.start);
         Console.WriteLine("<!DOCTYPE html>" + 
                           "\n<html>" +
                           "\n<body>");
@@ -30,6 +33,6 @@ class HtmlGenerator
         Console.WriteLine("</main>" +
                           "\n</body>" +
                           "\n</html");
-
+        Console.WriteLine(this.end);
     }
 }
