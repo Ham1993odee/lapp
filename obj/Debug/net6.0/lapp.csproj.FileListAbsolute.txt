@@ -1,0 +1,15 @@
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\bin\Debug\net6.0\lapp.exe
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\bin\Debug\net6.0\lapp.deps.json
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\bin\Debug\net6.0\lapp.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\bin\Debug\net6.0\lapp.dll
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\bin\Debug\net6.0\lapp.pdb
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\obj\Debug\net6.0\lapp.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\obj\Debug\net6.0\lapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\obj\Debug\net6.0\lapp.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\obj\Debug\net6.0\lapp.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\obj\Debug\net6.0\lapp.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\obj\Debug\net6.0\lapp.dll
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\obj\Debug\net6.0\refint\lapp.dll
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\obj\Debug\net6.0\lapp.pdb
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\obj\Debug\net6.0\lapp.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\iths\C#\git lapp\lapp\obj\Debug\net6.0\ref\lapp.dll
